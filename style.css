@@ -1,0 +1,24 @@
+body{
+    background-color: #00235B;
+}
+div{
+    background-color: #E21818;
+    padding: 10px;
+}
+h2, p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.satu{
+    background-color: #FFDD83;
+}
+#dua{
+    background-color: chocolate;
+}
+.satu p{
+    color: black;
+}
+.satu h2{
+    color: black;
+}
